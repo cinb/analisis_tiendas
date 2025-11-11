@@ -1,4 +1,4 @@
-# analisis_tiendas
+#  Analisis_tiendas
 
 # 🏪 Proyecto de Ventas y Rentabilidad
 
